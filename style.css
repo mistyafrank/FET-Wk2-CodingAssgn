@@ -1,0 +1,126 @@
+table {
+    border-collapse: collapse;
+    width: 60%;
+    float: right;
+    padding-left: 1%;
+}
+
+th,
+td {
+    padding: 8px;
+    text-align: left;
+    border-bottom: 1px solid black;
+}
+
+.every-odd li:nth-child(odd) {
+    background-color: gray;
+}
+
+body {
+    background-color: bisque;
+    margin: 15px;
+}
+
+th {
+    font-size: x-large;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: navy;
+}
+
+h1 {
+    color: turquoise;
+    font-size: 90px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    margin: auto;
+}
+
+h2 {
+    color: orange;
+    font-size: x-large;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-shadow: gray 1px 1px;
+    float: left;
+    padding-left: 1%;
+    width: 30%;
+}
+
+.navigation-list {
+    background-color: lavenderblush;
+    -moz-box-flex: 1;
+    font-size: larger;
+}
+
+.navigation-list a:hover {
+    color: white;
+}
+
+p {
+    text-align: center;
+}
+
+div {
+    height: auto;
+    display: block;
+    width: 100%;
+    text-align: center;
+}
+
+#Fiona {
+    padding-top: 200px;
+}
+
+.image1 {
+    float: right;
+}
+
+.image2 {
+    border-radius: 50%;
+    float: left;
+}
+
+h3 {
+    text-align: center;
+    color: navy;
+    font-size: larger;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#footer {
+    border: 1px;
+    float: left;
+    padding-top: 75px;
+    text-align: center;
+}
+
+.image3 {
+    float: right;
+    border-radius: 50%;
+}
+
+.image4 {
+    float: left;
+    border-radius: 50%;
+}
+
+.image5 {
+    float: right;
+    padding-top: 30px;
+}
+
+.image7 {
+    float: left;
+    border-radius: 20%;
+    padding-left: 30px;
+}
+
+.image6 {
+    padding-left: 200px;
+}
+
+.image8 {
+    float: right;
+    border-radius: 20%;
+    padding-right: 50px;
+}
